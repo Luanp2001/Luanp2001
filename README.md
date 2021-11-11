@@ -8,14 +8,6 @@
 - 🔭 Atualmente procurando oportunidades
 - 🌱 Estudando HTML,CSS e JS
 - 😄 Pronomes: ele/dele
-
-## Estatística
-
-<div align="center">
-  <a href="https://github.com/Luanp2001">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Luanp2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanp2001&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
   
   ## Linguagens e Ferramentas:
   
@@ -39,5 +31,12 @@
   
   ## Veja meu site
 
- 
 <a href="https://www.instagram.com/luan.cardoso18/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg" target="_blank"></a>
+  
+  ## Estatística
+
+<div align="center">
+  <a href="https://github.com/Luanp2001">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Luanp2001&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanp2001&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
