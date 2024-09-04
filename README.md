@@ -4,10 +4,9 @@
 
 ## Sobre mim:
 
-- 🗽 Eu me chamo Luan Pinheiro Cardoso, sou estudante e developer;
-- 🔭 Atualmente procurando oportunidades;
-- 🌱 Estudando HTML,CSS e JS;
-- 😄 Pronomes: ele/dele.
+- 🗽 Eu me chamo Luan Pinheiro Cardoso, sou formado em ciências da computação;
+- 🔭 Atualmente Trabalho na Capgemini;
+- 🖥️ HTML/CSS, Java, JavaScript, Python, PEGA Systems;
 <div>
 </div>
   
