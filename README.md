@@ -11,6 +11,8 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/hH9KWJkNGw)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luan.p@uni9.edu.br)
 
+<img src="https://komarev.com/ghpvc/?username=Luanp2001&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
 ---
@@ -20,7 +22,7 @@
 ```typescript
 const luan = {
     formacao: "Ciências da Computação",
-    empresa: "Capgemini",
+    empresa: "GFT Brasil",
     role: "Desenvolvedor Full Stack",
     localização: "Brasil 🇧🇷",
     especialidades: ["PEGA Systems", "Web Development", "Backend Development"],
