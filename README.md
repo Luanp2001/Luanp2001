@@ -74,18 +74,8 @@ const luan = {
   
   <br/><br/>
   
-  <img src="https://streak-stats.demolab.com?user=Luanp2001&theme=dracula&hide_border=false&border=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak Stats" width="49%"/>
-  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanp2001&theme=dracula" alt="Most Commit Language" width="49%"/>
   
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luanp2001&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
