@@ -80,14 +80,6 @@ const luan = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luanp2001&custom_title=Contribution%20Graph&bg_color=282A36&color=BD93F9&line=FF79C6&point=50FA7B&area=true&hide_border=false" alt="Contribution Graph"/>
-</div>
-
----
-
 <div align="center">
   
 ### 💜 "Código é poesia em movimento"
